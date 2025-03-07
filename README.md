@@ -28,8 +28,6 @@ terraform apply -auto-approve
 ## How to run ansible:
 
 ### How to run all roles
-
-### Example to run all roles:
 ```bash
 ansible-playbook -i inventory.yml setup.yml
 ```
